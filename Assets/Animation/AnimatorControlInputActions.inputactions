@@ -1,0 +1,33 @@
+{
+    "name": "AnimatorControlInputActions",
+    "maps": [
+        {
+            "name": "GenAnimControl",
+            "id": "9ecec7c9-4054-4f26-a386-5a055b339398",
+            "actions": [
+                {
+                    "name": "ToggleBool",
+                    "type": "Button",
+                    "id": "554bb0ba-65f3-4a4e-be28-f5fe47607cb8",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f487a6ea-799b-4305-9223-f2e4d88baf18",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleBool",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
